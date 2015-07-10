@@ -8,7 +8,7 @@
    }
 /*.mdl-card__logocard > .mdl-card__profile { */
 .demo-card-square > .mdl-card__profile {
-	background: url('images/LogoNoBG.png') center/cover;
+	background: url("images/LogoNoBG.png") center/cover;
 	
 }
 
