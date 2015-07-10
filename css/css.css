@@ -25,6 +25,10 @@
 
 }
 
+.mdl-card {
+	color:white;
+}
+
 .mdl-card__media {
 	box-sizing: border-box;
   background-size: cover;
