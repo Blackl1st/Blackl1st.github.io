@@ -6,3 +6,6 @@
 .mdl-mini-footer--right-section a {
  /* color: white; */
    }
+.mdl-card__profile {
+	background: url('images/LogoNoBG.png') center/cover;
+}
