@@ -8,9 +8,10 @@
    }
 .mdl-card__logocard > .mdl-card__profile {
 	background: url('images/LogoNoBG.png') center/cover;
+	width: 320px;
+	height: 320px;
 }
 
 .mdl-card__logocard.mdl-card{
-	width: 320px;
-	height: 320px;
+	
 }
