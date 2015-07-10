@@ -3,3 +3,6 @@
 .mdl-mini-footer--right-section i {
   padding-right: 2px;
    }
+.mdl-mini-footer--right-section a {
+  color: rgba(255,255,255,0);
+   }
