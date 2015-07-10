@@ -18,15 +18,12 @@
 } */
 
 .mdl-card__media .logo-picture {
+	background-color: white;
 	background-image: url('images/LogoNoBG.png');
 }
 
 .blog {
 
-}
-
-.mdl-card {
-	color:white;
 }
 
 .mdl-card__media {
