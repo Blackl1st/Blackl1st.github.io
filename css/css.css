@@ -6,7 +6,7 @@
 .mdl-mini-footer--right-section a {
  /* color: white; */
    }
-/*.mdl-card__logocard > .mdl-card__profile { */
+/*.mdl-card__logocard > .mdl-card__profile { 
 .demo-card-square > .mdl-card__profile {
 	background: url("images/LogoNoBG.png") center/cover;
 	
@@ -15,4 +15,4 @@
 .demo-card-square.mdl-card{
 	width: 320px;
 	height: 320px;
-}
+} */
