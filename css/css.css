@@ -22,11 +22,48 @@
 	background-image: url('images/LogoNoBG.png');
 }
 
-.blog {
-
+body .blog {
+  font-family: 'Roboto', 'Helvetica', sans-serif;
 }
 
-.mdl-card__media {
+.blog.mdl-layout .mdl-layout__content {
+  padding-top: 230px;
+  position: relative;
+  -webkit-overflow-scrolling: touch;
+}
+
+.blog .blog__posts {
+	  max-width: 900px;
+  padding: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  margin: 0 auto;
+  -webkit-flex-shrink: 0;
+      -ms-flex-negative: 0;
+          flex-shrink: 0;
+}
+
+.blog .mdl-card {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: stretch;
+  -webkit-align-items: stretch;
+      -ms-flex-align: stretch;
+          align-items: stretch;
+  min-height: 360px;
+}
+
+.blog .mdl-card__media {
 	box-sizing: border-box;
   background-size: cover;
   padding: 24px;
@@ -48,4 +85,9 @@
       -ms-flex-align: end;
           align-items: flex-end;
   cursor: pointer;
+}
+
+.blog .mdl-card__media a,
+.blog .mdl-card__title a{
+	color: inherit;
 }
