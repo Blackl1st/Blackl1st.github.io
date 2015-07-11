@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-.mdl-mini-footer--right-section i {
+.mdl-mini-footer--right-section {
   padding-right: 3px;
    }
 .mdl-mini-footer--right-section a {
@@ -106,11 +106,11 @@ body .blog {
 	color: inherit;
 }
 
-.mdl-mini-footer {
+/*.mdl-mini-footer {
 	position:absolute;
 	right: 0;
 	bottom: 0;
 	left: 0;
 	padding:1rem;
 	width:100%;
-}
+}*/
