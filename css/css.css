@@ -17,8 +17,22 @@
 	height: 320px;
 } */
 
-.mdl-card__media .logo-picture {
-	background-color: #FFF !important; 
+.blog.is-small-screen .blog__posts > .mdl-card.coffee-pic {
+	-webkit-box-ordinal-group: 1;
+	-webkit-order: 0;
+		-ms-flex-order: 0;
+			order: 0;
+}
+
+.blog.is-small-screen .blog__posts > .mdl-card.something-else {
+	-webkit-box-ordinal-group: 0;
+  	-webkit-order: -1;
+     	-ms-flex-order: -1;
+          order: -1;
+}
+
+.blog .logo-picture .mdl-card__media {
+	/*background-color: #FFF !important; */
 	background-image: url('images/LogoNoBG.png');
 }
 
