@@ -32,7 +32,7 @@
 }
 
 .blog .logo-picture .mdl-card__media {
-	/*background-color: #FFF !important; */
+	background-color: #FFF !important; 
 	background-image: url('/images/Long Logo noBG.png');
 }
 
