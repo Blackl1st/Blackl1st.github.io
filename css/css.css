@@ -36,6 +36,7 @@
 	background-image: url('/images/Long Logo noBG.png');
 	height:auto;
 	width:auto;
+	display:inline-block;
 }
 
 body .blog {
