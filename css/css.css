@@ -34,8 +34,8 @@
 .blog .logo-picture .mdl-card__media {
 	background-color: #FFF !important; 
 	background-image: url('/images/Long Logo noBG.png');
-	height:auto;
-	width:auto;
+	height:auto !important;
+	width:auto !important;
 	display:inline-block;
 }
 
