@@ -34,6 +34,8 @@
 .blog .logo-picture .mdl-card__media {
 	background-color: #FFF !important; 
 	background-image: url('/images/Long Logo noBG.png');
+	height:auto;
+	width:auto;
 }
 
 body .blog {
@@ -104,6 +106,12 @@ body .blog {
 .blog .mdl-card__media a,
 .blog .mdl-card__title a{
 	color: inherit;
+}
+
+.footer {
+	position:absolute;
+	left:0;
+	bottom:0;
 }
 
 /*.mdl-mini-footer {
