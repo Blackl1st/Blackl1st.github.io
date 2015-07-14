@@ -7,6 +7,10 @@ body{
 	/*text-align:center;*/
 }
 
+.top-buffer { 
+	margin-top:20px; 
+}
+
 .test-col-1{
 	background-color:#ff66ff;
 }
