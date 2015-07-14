@@ -6,6 +6,12 @@ body{
 	background-color:#d3d3d3;
 }
 
-.test-row{
+.test-col-1{
 	background-color:pink;
+}
+.test-col-2{
+	background-color:blue;
+}
+.test-col-3{
+	background-color:yellow;
 }
