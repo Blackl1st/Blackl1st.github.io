@@ -15,3 +15,6 @@ body{
 .test-col-3{
 	background-color:#ffcc00;
 }
+.logo-img{
+	background: url=("/images/longnobg.png");
+}
