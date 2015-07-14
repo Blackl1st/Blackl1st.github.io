@@ -32,7 +32,7 @@ img{
 	margin:0 auto;
 }
 .vcenter {
-    display: inline-block;
+    display: table !important;
     vertical-align: middle;
     float: none;
 }
