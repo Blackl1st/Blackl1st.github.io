@@ -5,3 +5,7 @@
 .row{
 	background-color:#d3d3d3;
 }
+
+.test > .row{
+	background-color:pink;
+}
