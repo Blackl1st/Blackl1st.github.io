@@ -24,17 +24,17 @@ body{
 	background: url=("/images/longnobg.png");
 }
 
-.img-container{
+/*.img-container{
     height:100%;
-}
+}*/
 
-img{
+/*img{
     height:100% !important;
     width:100%;
-}
-.img-center {
+}*/
+/*.img-center {
 	margin:0 auto;
-}
+}*/
 .vcenter {
     display: flex;
     align-items: center;
