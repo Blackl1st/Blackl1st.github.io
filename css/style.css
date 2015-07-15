@@ -36,21 +36,15 @@ body{
 /*.img-center {
 	margin:0 auto;
 }*/
-.vcenter {
+./*vcenter {
     display: flex;
     align-items: center;
     justify-content: center;
-}
+}*/
 
 @media screen and (min-width: 600px) {
     .vcenter {
-    	
-        /*display: none;*/
-        display:inline-block;
+    	display: flex;
+    	align-items: center;
+    	justify-content: center;
     }
-    .selected {
-        display: flex;
-    align-items: center;
-    justify-content: center;
-    }
-}
