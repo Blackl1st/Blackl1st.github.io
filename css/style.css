@@ -44,12 +44,13 @@ body{
 
 @media screen and (min-width: 600px) {
     .vcenter {
-    	display: flex;
-    align-items: center;
-    justify-content: center;
+    	
         /*display: none;*/
+        display:inline-block;
     }
     .selected {
-        display:inline-block;
+        display: flex;
+    align-items: center;
+    justify-content: center;
     }
 }
