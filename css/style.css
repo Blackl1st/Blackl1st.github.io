@@ -50,3 +50,9 @@ img{
 .footer{
 	background-color:#645E62;
 }
+.footer-container{
+	background-color:#00273D;
+	padding:80px 0 80px 7%;
+	position:relative;
+	z-index:11
+}
