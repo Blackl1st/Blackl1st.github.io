@@ -1,6 +1,11 @@
+html {
+	position:relative;
+	min-height:100%;
+}
 body{
 	font-family:freight-sans-pro,sans-serif !important;
 	padding-top: 70px;
+	margin-bottom:60px;
 }
 
 .row{
@@ -47,12 +52,18 @@ img{
     		align-items: center;
     		justify-content: center;
     	}
-/*.footer{
-	background-color:#645E62;
-}*/
+.footer{
+	position:absolute;
+	bottom:0;
+	width:100%;
+	/* Fixed height of the footer here */
+	height:60px;
+	background-color: #f5f5f5;
+}
 .footer-container{
 	background-color:#00273D;
 	padding:80px 0 80px 7%;
 	position:relative;
 	z-index:11
 }
+
