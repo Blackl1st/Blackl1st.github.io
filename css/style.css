@@ -73,7 +73,9 @@ footer {
     color:#ddd;
     min-height:100px;
     padding-top:20px;
-    padding-bottom:40px;
+    /*padding-bottom:40px;*/
+    bottom:0;
+    width:100%;
 }
 
 footer .nav>li>a {
