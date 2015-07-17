@@ -50,7 +50,7 @@ img{
     justify-content: center;
     }*/
 
-section {
+/*section {
 	padding-top:70px;  
     padding-bottom:50px;
     min-height:100%;
@@ -58,7 +58,7 @@ section {
     -webkit-transform-style: preserve-3d;
     -moz-transform-style: preserve-3d;
     transform-style: preserve-3d;
-}
+}*/
 
     @media screen and (min-width: 992px) {
     	.vcenter {
