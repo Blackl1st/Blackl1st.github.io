@@ -67,3 +67,12 @@ img{
 	z-index:11
 }
 
+/* Style ID's */
+#social-media {
+	backgorund-color:#2b2b2b;
+	color:#ddd;
+	min-height:100px;
+	padding-top:20px;
+	padding-bottom:40px;
+}
+
