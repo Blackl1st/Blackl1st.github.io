@@ -5,7 +5,7 @@ html {
 	/*min-height:100%;*/
 }
 body{
-	font-family:freight-sans-pro,sans-serif !important;
+	font-family:'Montserrat',sans-serif !important;
 	padding-top: 70px;
 	/*margin-bottom:80px !important;*/
 }
@@ -154,8 +154,8 @@ label{
 #section1, #section3 {
 	background-color: #6f6f6f;
 	color:#fff;
-	font-family: 'Bitter', serif;
 	
+
 }
   
 #section4 {
