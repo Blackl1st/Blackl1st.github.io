@@ -124,6 +124,10 @@ footer .nav>li>a:hover {
 	opacity:0.5;
 }
 
+.contact-form {
+	margin-top:70px;
+}
+
 /* Style ID's */
 #social-media {
 	background-color:#3acddb;
@@ -165,4 +169,3 @@ footer .nav>li>a:hover {
 	padding-top:40px;
 	padding-bottom:40px;
 }
-
