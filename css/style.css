@@ -127,7 +127,16 @@ footer .nav>li>a:hover {
 .contact-form {
 	margin-top:70px;
 }
-
+label{
+	margin-bottom:5px;
+}
+.contact-padding {
+	padding-top:6px;
+	padding-bottom:6px;
+	padding-left:12px;
+	padding-right:12px;
+	margin-bottom:15px;
+}
 /* Style ID's */
 #social-media {
 	background-color:#3acddb;
