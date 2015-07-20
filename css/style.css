@@ -132,6 +132,9 @@ footer .nav>li>a:hover {
 	padding-top:20px;
 	padding-bottom:40px;
 }
+#social-media li>a{
+	color:#fff;
+}
 
 #section1, #section3 {
 	background-color: rgba(0,0,0,0.7);
