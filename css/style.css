@@ -101,7 +101,7 @@ footer .nav>li>a:hover {
 }
 
 .navbar-trans li>a:hover {
-	background-color:#3acddb
+	background-color:#3acddb;
 	color:#fff;
 	opacity:0.5;
 }
