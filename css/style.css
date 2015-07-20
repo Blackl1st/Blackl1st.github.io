@@ -118,6 +118,12 @@ footer .nav>li>a:hover {
 	box-shadow: inset 0 1px 1px rgba(0,0,0,0.075),0 0 8px rgba(100,100,100,0.6);
 }
 
+.nav>li>a:hover{
+	background-color:#3acddb !important;
+	color:#fff;
+	opacity:0.5;
+}
+
 /* Style ID's */
 #social-media {
 	background-color:#3acddb;
