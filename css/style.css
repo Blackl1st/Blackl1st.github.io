@@ -152,6 +152,10 @@ label{
 	background-color:#3acddb !important;
 	border-color:#34b8c5 !important;
 }
+.panel-default>.panel-heading {
+	background-color:#3acddb;
+	color:#FFF;
+	}
 /* Style ID's */
 #social-media {
 	background-color:#3acddb;
