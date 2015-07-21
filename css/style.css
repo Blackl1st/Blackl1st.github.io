@@ -30,6 +30,13 @@ span{
 .logo-img{
 	background: url=("/images/longnobg.png");
 }
+img {
+    transition: -webkit-transform 0.25s ease;
+}
+
+img:active {
+    -webkit-transform: scale(2);
+}
 /*.vcenter {
     display: flex;
     align-items: center;
