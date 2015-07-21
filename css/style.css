@@ -153,27 +153,19 @@ label{
 	color:#fff;
 }
 
-#section1, #section3 {
+#section1, #section3, #section5 {
 	background-color: #6f6f6f;
 	color:#fff;
 	
 
 }
   
-#section4 {
+#section2, #section3 {
 	background-color: #f6f6f6;
 	color:#444;
 }
   
-#section2 {
-	background-color: #fff;
-}
-
-#section3 {
-	background-color: rgba(0,0,0,0.9);
-}
-
-#section5 {
+#section4 {
 	background-color: #fff;
 }
 
