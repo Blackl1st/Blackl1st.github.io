@@ -9,7 +9,7 @@ body{
 	/*margin-bottom:80px !important;*/
 }
 .sr-only{
-	color:#fff !important;
+	background-color:#fff !important;
 }
 .top-buffer { 
 	margin-top:20px; 
