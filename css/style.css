@@ -148,6 +148,10 @@ label{
 .form-group{
 	margin-bottom:15px;
 }
+.btn-primary{
+	background-color:#3acddb !important;
+	border-color:#34b8c5 !important;
+}
 /* Style ID's */
 #social-media {
 	background-color:#3acddb;
