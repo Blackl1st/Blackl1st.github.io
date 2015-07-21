@@ -152,8 +152,8 @@ label{
 	background-color:#3acddb !important;
 	border-color:#34b8c5 !important;
 }
-.panel-default>.panel-heading {
-	background-color:#3acddb;
+.panel-default>.panel-heading-cyan {
+	background-color:#3acddb !important;
 	color:#FFF;
 	}
 /* Style ID's */
