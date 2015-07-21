@@ -154,7 +154,7 @@ label{
 }
 .panel-default>.panel-heading-cyan {
 	background-color:#3acddb !important;
-	color:#FFF;
+	color:#FFF !important;
 	}
 /* Style ID's */
 #social-media {
