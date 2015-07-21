@@ -8,7 +8,7 @@ body{
 	font-family:'Montserrat',sans-serif !important;
 	/*margin-bottom:80px !important;*/
 }
-.sr-only{
+span{
 	background-color:#fff !important;
 }
 .top-buffer { 
