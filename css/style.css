@@ -153,22 +153,25 @@ label{
 	color:#fff;
 }
 
-#section1, #section5 {
+#section1 {
 	background-color: #6f6f6f;
 	color:#fff;
-	
-
 }
-  
-#section2, #section3 {
+#section2 {
 	background-color: #f6f6f6;
 	color:#444;
-}
-  
+} 
+#section3 {
+	background-color: #f6f6f6;
+	color:#444;
+} 
 #section4 {
 	background-color: #fff;
 }
-
+#section5 {
+	background-color: #6f6f6f;
+	color:#fff;
+}
 #section6 {
     background-color: #eee;
 	min-height:130px;
