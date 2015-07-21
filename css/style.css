@@ -8,6 +8,9 @@ body{
 	font-family:'Montserrat',sans-serif !important;
 	/*margin-bottom:80px !important;*/
 }
+span{
+	color:#fff;
+}
 .top-buffer { 
 	margin-top:20px; 
 }
