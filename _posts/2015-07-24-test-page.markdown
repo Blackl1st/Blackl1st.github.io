@@ -2,7 +2,7 @@
 layout: post
 title:  "This is a test post!"
 date:   2015-07-24 11:19:12
-categories: Test
+categories: -Test
 ---
 
 Test PAge
