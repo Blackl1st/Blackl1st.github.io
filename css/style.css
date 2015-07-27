@@ -161,11 +161,9 @@ label{
 	padding-top:150px !important;
 	padding-bottom:70px !important;
 }
-/*.link-color-404{
-	link="#C0C0C0";
-	vlink="#808080";
-	a:link="#FF0000";
-}*/
+.section404:link{ text-decoration: none; color:#FFF;}
+.section404:visited {text-decoration: none; color:#FFF;}
+.section404:hover {text-decoration: none; color:#3acddb;}
 .section404 {
 	background-color: #f6f6f6;
 	color:#444 !important;
