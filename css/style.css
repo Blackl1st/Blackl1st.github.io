@@ -156,6 +156,15 @@ label{
 	background-color:#3acddb !important;
 	color:#FFF !important;
 	}
+
+.pad-content{
+	padding-top:150px !important;
+	padding-bottom:70px !important;
+}
+.section404 {
+	background-color: #f6f6f6;
+	color:#444;
+}
 /* Style ID's */
 #social-media {
 	background-color:#3acddb;
@@ -203,9 +212,4 @@ label{
 	padding-top:40px;
 	padding-bottom:40px;
 }
-.section404 {
-	background-color: #f6f6f6;
-	color:#444;
-	padding-top:150px !important;
-	padding-bottom:320px !important;
-}
+
