@@ -161,9 +161,14 @@ label{
 	padding-top:150px !important;
 	padding-bottom:70px !important;
 }
+/*.link-color-404{
+	link="#C0C0C0";
+	vlink="#808080";
+	a:link="#FF0000";
+}*/
 .section404 {
 	background-color: #f6f6f6;
-	color:#444;
+	color:#444 !important;
 }
 /* Style ID's */
 #social-media {
