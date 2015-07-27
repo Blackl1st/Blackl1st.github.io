@@ -161,11 +161,12 @@ label{
 	padding-top:150px !important;
 	padding-bottom:70px !important;
 }
-.section404:link{ text-decoration: none; color:#FFF;}
-.section404:visited {text-decoration: none; color:#FFF;}
-.section404:hover {text-decoration: none; color:#3acddb;}
+.section404 a{ text-decoration: none; color:#FFF;}
+.section404:link a{ text-decoration: none; color:#FFF;}
+.section404:visited a{text-decoration: none; color:#FFF;}
+.section404:hover a{text-decoration: none; color:#3acddb;}
 .section404 {
-	background-color: #f6f6f6;
+	background-color: #f6f6f6 !important;
 	color:#444 !important;
 }
 /* Style ID's */
