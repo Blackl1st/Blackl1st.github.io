@@ -2,6 +2,7 @@
 layout: post
 title:  "Find Your Computer Name on Windows 7!"
 date:   2016-04-08 09:39:43
+author: Blackl1st
 categories: -Windows7 -Computer
 ---
 Your computer name is first and foremost an identifier. If you did not have a name, people unfamiliar with you would have a hard time figuring out who you are. In the same way if someone doesn't know your computer name it becomes more difficult to identify your computer when on a network. The name of your computer on many networks is used as an identifier to access your computer for things such as remote help or to target your computer for powershell commands. 
